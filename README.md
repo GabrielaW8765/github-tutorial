@@ -43,10 +43,10 @@ Steps to making a repository
 ---
 ## Workflow & Commands
 
-Git save = Save's your work 
+_Git save_ = Save's your work 
 
-Git add = Add's your work onto the repo
+_Git add_ = Add's your work onto the repo
 
-Git commit = Send's a messsage to the repo to make sure that you acutally made a changed.
+_Git commit_ = Send's a messsage to the repo to make sure that you acutally made a changed.
 
-Git push = Send's everything onto the repo and saves it up to date.
+_Git push_ = Send's everything onto the repo and saves it up to date.
